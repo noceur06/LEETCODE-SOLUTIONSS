@@ -29,3 +29,9 @@ let t = Date.now();
 sleep(100).then(() => {
   console.log(Date.now() - t);
 });
+
+
+// The final answer is 10. of example 1
+//The final answer is 130. of example 2
+// 25 is final answer of example 3
+
