@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0014-longest-common-prefix) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
