@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0118-pascals-triangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3658-gcd-of-odd-and-even-sums) |
