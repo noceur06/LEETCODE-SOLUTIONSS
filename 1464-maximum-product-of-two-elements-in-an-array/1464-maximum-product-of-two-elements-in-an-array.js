@@ -4,12 +4,10 @@
  */
 var maxProduct = function(nums) {
     let arr = nums.sort((a,b) => b - a);
-    let final = 0;
+    
     let result = (arr[0] - 1) * (arr[1] -1);
-    if(result > final){
-        final = result;
-    }
-    return final;
+  
+    return result;
     // let prod = 0;
     // for(let i = 0; i < nums.length; i++){
     //     for(let j = i + 1; j < nums.length; j++){
