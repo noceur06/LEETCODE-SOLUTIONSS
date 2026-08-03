@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3536-maximum-product-of-two-digits) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
