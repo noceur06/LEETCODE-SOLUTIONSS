@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0014-longest-common-prefix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
