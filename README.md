@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
