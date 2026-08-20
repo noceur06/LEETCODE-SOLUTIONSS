@@ -15,7 +15,7 @@ var resultArray = function(nums) {
         arr2.push(nums[i]);
        }
     }
-    let result = arr1.concat(arr2);
+    let result = [...arr1,...arr2];
     
     return result;
 };
