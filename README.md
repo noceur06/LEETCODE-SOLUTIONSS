@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0035-search-insert-position) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0035-search-insert-position) |
 ## Dynamic Programming
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
