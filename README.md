@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0020-valid-parentheses) |
