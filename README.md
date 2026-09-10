@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
