@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
